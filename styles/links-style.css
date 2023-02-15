@@ -1,0 +1,32 @@
+h1 {
+    font-size: 100px;
+    font-family: "Rockwell";
+    text-align: center;
+}
+
+h3 {
+    font-size: 75px;
+    font-family: "Rockwell";
+    position: relative;
+    background-color: greenyellow;
+}
+
+.whatsapp {
+    background-color: greenyellow;
+    padding: 0 10px 10px 10px;
+}
+
+a {
+    display: block;
+    font-size: 50px;
+    font-family: "Arial";
+    margin: 20px;
+}
+
+footer {
+    font-family: "Arial";
+    font-size: 15px;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}

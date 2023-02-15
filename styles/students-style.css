@@ -1,0 +1,16 @@
+h1 {
+    font-size: 100px;
+    font-family: Bahnschrift;
+    text-align: center;
+}
+
+ol {
+    font-size: 40px;
+    font-family: Arial;
+    position: absolute;
+    left: 30px; 
+}
+
+li {
+    margin: 15px 0 25px 15px;
+}
